@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include "hash.h"
-
+#include "hash.cpp"
 using namespace std;
 
 int main(int argc, char** argv)

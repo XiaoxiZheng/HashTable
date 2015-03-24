@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1427161964 source:c:\users\xiaoxi\desktop\codeblockprojects\hashtable\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"hash.h"
+	"hash.cpp"
+
+1427163037 c:\users\xiaoxi\desktop\codeblockprojects\hashtable\hash.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1427164619 c:\users\xiaoxi\desktop\codeblockprojects\hashtable\hash.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"hash.h"
+
